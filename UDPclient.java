@@ -20,3 +20,4 @@ class UDPClient {
         clientSocket.close();//fermer le socket
     }
 }
+//commentaires et codes par Firas Abdelmoumen ICE3
