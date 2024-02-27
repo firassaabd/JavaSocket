@@ -1,0 +1,1 @@
+	Ce code crée un serveur TCP qui écoute sur le port 12345. Lorsqu'un client se connecte, il accepte la connexion et crée un nouveau thread (ClientHandler) pour gérer ce client. Ce thread lit la chaîne envoyée par le client, inverse la chaîne, simule un traitement en attente avec Thread.sleep(2000), puis envoie la chaîne inversée au client.
