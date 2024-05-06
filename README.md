@@ -1,0 +1,1 @@
+Ici j'ai pas pu uploder les fichier de kafka car la taille depasse 100Mo alors j'ai joignés des captures d'ecran qui illustrent les étapes d'utilisation de Kafka (springBoot, BootStrap) comme assigné en enoncé de TD
